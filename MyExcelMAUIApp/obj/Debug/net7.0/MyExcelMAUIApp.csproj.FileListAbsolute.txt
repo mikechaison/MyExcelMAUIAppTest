@@ -1,0 +1,16 @@
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.csproj.AssemblyReference.cache
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.AssemblyInfoInputs.cache
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.AssemblyInfo.cs
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.csproj.CoreCompileInputs.cache
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\bin\Debug\net7.0\MyExcelMAUIApp.deps.json
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\bin\Debug\net7.0\MyExcelMAUIApp.dll
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\bin\Debug\net7.0\MyExcelMAUIApp.pdb
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\bin\Debug\net7.0\DemoParser.Parsing.dll
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\bin\Debug\net7.0\DemoParser.Parsing.pdb
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\XamlC.stamp
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.csproj.CopyComplete
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.dll
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\refint\MyExcelMAUIApp.dll
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\MyExcelMAUIApp.pdb
+D:\Бурсітєт\2_course\ООП\MyExcelMAUIAppTest\MyExcelMAUIApp\obj\Debug\net7.0\ref\MyExcelMAUIApp.dll
